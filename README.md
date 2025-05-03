@@ -27,8 +27,7 @@ A responsive and stylish pricing table built using HTML and CSS. The design show
 ---
 
 ## 🚀 Live Preview
-
-👉 [View Project on GitHub Pages]([https://your-username.github.io/your-repo-name/](https://susshiii.github.io/Pricing-Panel-Project/))
+👉 [View Project on GitHub Pages](https://susshiii.github.io/Pricing-Panel-Project/)
 
 ---
 
