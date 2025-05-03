@@ -4,8 +4,8 @@ A responsive and stylish pricing table built using HTML and CSS. The design show
 
 ## 🖥️ Preview
 
-![Pricing Panel Screenshot](./icons/icon2.png)  
-<sub>Replace this with a full screenshot of your pricing panel.</sub>
+![image](https://github.com/user-attachments/assets/0c5cf5b8-86ae-4dcf-8af0-22acb805606d)
+
 
 ---
 
